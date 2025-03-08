@@ -90,4 +90,32 @@ Como resposta, este endpoint responde com:
 </br>
 
 ## Como executar:
-- Em breve 
+
+Primeiramente, clone o repositório em sua máquina local:
+```bash
+git clone https://github.com/LuisHenriqueDaSilv/ItauJuniorChallenge-Spring.git
+```
+
+### Utilizando Docker/Docker-Compose:
+**Certifique-se de ter o <a href="https://docs.docker.com/engine/install/">docker</a> e <a href="https://docs.docker.com/compose/install/linux/">docker compose</a> instalado em sua máquina**
+
+Após isso, basta executar o seguinte comando
+```bash
+docker compose up
+```
+
+e acessar sua aplicação em:
+>http://localhost:3003
+
+</br>
+
+### Utilizando o maven:
+**Certifique-se de ter o <a href="https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html">java-17</a> e <a href="https://maven.apache.org/">maven</a> instalado em sua máquina**
+
+Após isso, basta executar o seguinte comando
+```bash
+mvn spring-boot:run
+```
+
+e acessar sua aplicação em:
+>http://localhost:3003
