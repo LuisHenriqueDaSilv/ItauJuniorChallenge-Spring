@@ -1,0 +1,7 @@
+spring/boot/itau/backend/challenge/models/TransactionModel.class
+spring/boot/itau/backend/challenge/controllers/transactionController.class
+spring/boot/itau/backend/challenge/dtos/PostTransactionRequestDTO.class
+spring/boot/itau/backend/challenge/services/TransactionService.class
+spring/boot/itau/backend/challenge/Application.class
+spring/boot/itau/backend/challenge/controllers/statisticsController.class
+spring/boot/itau/backend/challenge/dtos/StatisticsResponseDTO.class

@@ -1,0 +1,7 @@
+/home/luissilva/Projects/spring.boot.itau.backend.challenge/src/main/java/spring/boot/itau/backend/challenge/Application.java
+/home/luissilva/Projects/spring.boot.itau.backend.challenge/src/main/java/spring/boot/itau/backend/challenge/controllers/statisticsController.java
+/home/luissilva/Projects/spring.boot.itau.backend.challenge/src/main/java/spring/boot/itau/backend/challenge/controllers/transactionController.java
+/home/luissilva/Projects/spring.boot.itau.backend.challenge/src/main/java/spring/boot/itau/backend/challenge/dtos/PostTransactionRequestDTO.java
+/home/luissilva/Projects/spring.boot.itau.backend.challenge/src/main/java/spring/boot/itau/backend/challenge/dtos/StatisticsResponseDTO.java
+/home/luissilva/Projects/spring.boot.itau.backend.challenge/src/main/java/spring/boot/itau/backend/challenge/models/TransactionModel.java
+/home/luissilva/Projects/spring.boot.itau.backend.challenge/src/main/java/spring/boot/itau/backend/challenge/services/TransactionService.java
