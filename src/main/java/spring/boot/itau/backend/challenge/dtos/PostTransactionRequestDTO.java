@@ -12,4 +12,13 @@ public class PostTransactionRequestDTO {
     private Double valor;
     @Null
     private OffsetDateTime dataHora;
+
+    public boolean validate(){
+        return (
+            this.valor == null || 
+            this.dataHora == null || 
+            this.valor < 0 || 
+            this.dataHora.isAfter(OffsetDateTime.now()) 
+        );
+    }
 }
